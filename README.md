@@ -23,11 +23,8 @@
 <p align="left" style="background:yellow">
 
 <a href="www.linkedin.com/in/vinicius-mendes-lima-73409872" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ViniciusMendes(Rocketseat)-05122A?style=flat&logo=Rocketseat" alt="Rocketseat"/>  
+  <img align="center" src="www.linkedin.com/in/vinicius-mendes-lima-73409872"/>  
 </a>
-<a href="https://www.linkedin.com/in/vinicius-mendes-lima-73409872" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ViniciusMendes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</p>
   
 <!--
 **ViniciusMendesLima/ViniciusMendesLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
