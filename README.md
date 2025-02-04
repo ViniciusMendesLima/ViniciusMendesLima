@@ -1,5 +1,3 @@
-  
-
   <h1 align="left"> Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="8px"></br>Eu sou Vinícius Mendes</h1>
 
   ## 🛠 &nbsp;O que estudo
@@ -17,6 +15,14 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMendesLima&show_icons=true&theme=vision-friendly-dark" alt="viniciusmendes's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMendesLima&layout=compact&theme=vision-friendly-dark" alt="viniciusmendes's most languages"/>
 </p>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 <div> 
