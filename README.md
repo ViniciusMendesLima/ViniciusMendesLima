@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.rocketseat.com.br/me/vinicius-mendes-lima-03344"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=vinicius-mendes-lima-03344&type=card" width="280" alt="Vinicius Mendes Lima's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/vinicius-mendes-lima-03344"><img src="www.linkedin.com/in/vinicius-mendes-lima-73409872" width="280" alt="Vinicius Mendes Lima's Rocket ID"/></a>
