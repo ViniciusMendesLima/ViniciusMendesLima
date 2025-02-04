@@ -22,7 +22,7 @@
 
 <p align="left" style="background:yellow">
 
-<a href="https://app.rocketseat.com.br/me/vinicius-mendes-lima-03344" target="_blank">
+<a href="www.linkedin.com/in/vinicius-mendes-lima-73409872" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ViniciusMendes(Rocketseat)-05122A?style=flat&logo=Rocketseat" alt="Rocketseat"/>  
 </a>
 <a href="https://www.linkedin.com/in/vinicius-mendes-lima-73409872" target="_blank">
