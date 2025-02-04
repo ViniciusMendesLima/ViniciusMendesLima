@@ -14,17 +14,13 @@
   ## ⚙️ &nbsp;GitHub Analytics
   
   <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMendesLima&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMendesLima&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMendesLima&show_icons=true&theme=vision-friendly-dark" alt="viniciusmendes's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMendesLima&layout=compact&theme=vision-friendly-dark" alt="viniciusmendes's most languages"/>
 </p>
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
-<p align="left" style="background:yellow">
-
-<a href="www.linkedin.com/in/vinicius-mendes-lima-73409872" target="_blank">
-  <img align="center" src="www.linkedin.com/in/vinicius-mendes-lima-73409872"/>  
-</a>
+<a href="www.linkedin.com/in/vinicius-mendes-lima-73409872"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Vinicius Mendes Lima's Linkedin"/></a>
   
 <!--
 **ViniciusMendesLima/ViniciusMendesLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,4 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="www.linkedin.com/in/vinicius-mendes-lima-73409872"><img src="www.linkedin.com/in/vinicius-mendes-lima-73409872" width="280" alt="Vinicius Mendes Lima's Rocket ID"/></a>
+
