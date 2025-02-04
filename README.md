@@ -19,10 +19,11 @@
 </p>
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
-
-<a href="https://www.linkedin.com/in/vinicius-mendes-lima-73409872" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vinicius Mendes Lima's Linkedin" target="_blank"/></a>
-
-<a href="mailto:viniciusmendeslima@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Vinicius Mendes Lima's E-Mail" target="_blank"/></a>
+<div>
+  <a href="https://www.linkedin.com/in/vinicius-mendes-lima-73409872" target="_blank"><img     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vinicius Mendes Lima's Linkedin" target="_blank"/></a>
+  
+  <a href="mailto:viniciusmendeslima@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Vinicius Mendes Lima's E-Mail" target="_blank"/></a>
+</div>
 
 
   
