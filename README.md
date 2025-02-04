@@ -20,7 +20,7 @@
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
-<a href="www.linkedin.com/in/vinicius-mendes-lima-73409872"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Vinicius Mendes Lima's Linkedin"/></a>
+<a href="https://www.linkedin.com/in/vinicius-mendes-lima-73409872" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vinicius Mendes Lima's Linkedin"/></a>
   
 <!--
 **ViniciusMendesLima/ViniciusMendesLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
