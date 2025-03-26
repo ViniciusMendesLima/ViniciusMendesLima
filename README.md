@@ -1,12 +1,20 @@
   <h1 align="left"> Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="8px"></br>Eu sou Vinícius Mendes</h1>
 
+  ## 🚀 Sobre mim
+
+  Estou em transição para **desenvolvimento web**, formado em Sistemas de Informação e com experiência em diversas áreas, como logística, atendimento e auditoria.
+
+  Busco aplicar minhas habilidades técnicas e interpessoais na criação de soluções inovadoras, com foco em aprendizado contínuo e crescimento profissional.
+
   ## 🛠 &nbsp;O que estudo
 
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML5](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />)&nbsp;
+![CSS3](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />)&nbsp;
+![JavaScript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />)&nbsp;
+![Git](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />)&nbsp;
+![GitHub](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+)&nbsp;
 
   
   ## ⚙️ &nbsp;GitHub Analytics
