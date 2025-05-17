@@ -24,6 +24,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMendesLima&layout=compact&theme=vision-friendly-dark" alt="viniciusmendes's most languages"/>
 </p>
 
+![snake gif](https://github.com/ViniciusMendesLima/ViniciusMendesLima/blob/output/github-contribution-grid-snake.svg)
 
 
  
